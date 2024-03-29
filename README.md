@@ -16,6 +16,3 @@ Noteworthy projects include FER-MoE, a Machine Learning endeavor for facial emot
 
 ## Leadership & Development 🌱
 As a fellow in the Management Leadership for Tomorrow program and a course helper in Stanford's Computer Science department, I'm honing my leadership skills and contributing to the academic success of my peers.
-
-## More About Me 🌈
-Beyond the world of code, I am fluent in Arabic and Somali, and my interests lie in social innovation, education equity, and music composition.

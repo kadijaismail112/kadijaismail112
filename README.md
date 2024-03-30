@@ -13,6 +13,3 @@ My journey includes impactful roles at Amazon and the VMware Women's Leadership 
 
 ## Technical Projects 🌟
 Noteworthy projects include FER-MoE, a Machine Learning endeavor for facial emotion recognition, and the development of Remie. These experiences underscore my ability to apply complex concepts in AI and software engineering to real-world challenges.
-
-## Leadership & Development 🌱
-As a fellow in the Management Leadership for Tomorrow program and a course helper in Stanford's Computer Science department, I'm honing my leadership skills and contributing to the academic success of my peers.

@@ -12,4 +12,4 @@ My toolkit includes programming languages such as Python, JavaScript, and C++, a
 My journey includes impactful roles at Amazon and the VMware Women's Leadership Innovation Lab, where I've contributed to projects enhancing gender equality in STEM and developed data visualizations to spotlight trends affecting women in technology. My time with Sponsors for Educational Opportunity refined my skills in full-stack web development, resulting in the creation of Remie, an AI Web Assistant recognized for its architecture and functionality.
 
 ## Technical Projects 🌟
-Noteworthy projects include FER-MoE, a Machine Learning endeavor for facial emotion recognition, and the development of Remie. These experiences underscore my ability to apply complex concepts in AI and software engineering to real-world challenges.
+Noteworthy projects include EmotionRecML, a Machine Learning endeavor for facial emotion recognition, and the development of Remie. These experiences underscore my ability to apply complex concepts in AI and software engineering to real-world challenges.

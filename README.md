@@ -1,4 +1,4 @@
-# Hello, I'm Kadija! 👋
+# hiii, i'm kadija! 👋
 
 I'm currently pursuing a Bachelor of Science in Computer Science with a focus on Artificial Intelligence at Stanford University, where my academic journey is enriched by a minor in Education. 
 
